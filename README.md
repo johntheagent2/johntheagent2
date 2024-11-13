@@ -4,7 +4,7 @@
 <image width="400" src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif">
 
 
-- 🌱 I’m currently learning **Java Spring Boot, React**
+- 🌱 I specialized in **Java** programming language, but I am open to learn new things.
 
 - 📫 How to reach me **phat.cao1704@gmail.com**
 
